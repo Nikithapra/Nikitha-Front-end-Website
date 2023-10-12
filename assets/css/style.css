@@ -533,6 +533,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 
 .experience-time-responsive{display: none;}
 
+.contacts {
+    padding: 50px 0 100px;
+    background-color: lightblue;
+    border-top: 1px solid #e5ebf2;
+}
 /*hm-foot-icon*/
 
 .hm-foot-icon ul li{float:left;}
@@ -559,6 +564,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     padding: 20px 0;
     text-align: center;
 }
+
 .hm-footer-copyright p a {color: #888ea5;}
 /*===============================
     Scroll Top
